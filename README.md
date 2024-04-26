@@ -1,7 +1,7 @@
 # Machine-Learning
 ## Regression
--> includes linear regression, how the model training works\n
--> costfunction minimization
--> Gradient Deacent, SGD, Mini-batch GD
--> Polynomial Regression
--> Logistic and Softmax Regressoin
+-> includes linear regression, how the model training works <br>
+-> costfunction minimization <br>
+-> Gradient Deacent, SGD, Mini-batch GD <br>
+-> Polynomial Regression <br>
+-> Logistic and Softmax Regression <br>
