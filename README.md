@@ -11,3 +11,9 @@
 -> Similarity Features, Gaussian RBF <br>
 -> SVR, LinearSVR, Kernel Methods <br>
 -> Math behind SVM's <br>
+## Decision Trees
+-> Decision Tree Classifiers, Regularisation of decision tree classifires, controlling hyper parameters <br>
+-> CART Algorithm <br>
+-> Decision Tree Regressors, Regulrisation of decision tree regressors <br>
+-> Cost funcitons for both regressors and classifiers <br>
+-> Gini Impurity and Entropy <br>
