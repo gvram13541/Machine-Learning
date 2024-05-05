@@ -17,3 +17,12 @@
 -> Decision Tree Regressors, Regulrisation of decision tree regressors <br>
 -> Cost funcitons for both regressors and classifiers <br>
 -> Gini Impurity and Entropy <br>
+## Ensemble Learning and Random Forests
+-> Idea Behind Ensemble Learning, Ensemble Learning Techniques <br>
+-> Voting Classifiers, Soft Voting, Hard Voting <br>
+-> Bagging and Pasting Ensemble Techniques <br>
+-> Random Forests and Various methologies related to Random Forests <br>
+-> Extra Trees <br>
+-> Measuring Feature Imporatnce with Random Forests <br>
+-> Boosting, AdaBoost, GradientBoost <br>
+-> Stacking <br>
