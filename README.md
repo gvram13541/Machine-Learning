@@ -26,3 +26,6 @@
 -> Measuring Feature Imporatnce with Random Forests <br>
 -> Boosting, AdaBoost, GradientBoost <br>
 -> Stacking <br>
+## Dimensionality Reduction
+-> Approaches for dimensionality reduction: 1. Projection, 2. Manifold Learning
+-> Principle Componenet Analysis
