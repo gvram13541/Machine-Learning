@@ -27,7 +27,7 @@
 -> Boosting, AdaBoost, GradientBoost <br>
 -> Stacking <br>
 ## Dimensionality Reduction
--> Approaches for dimensionality reduction: 1. Projection, 2. Manifold Learning
+-> Approaches for dimensionality reduction: 1. Projection, 2. Manifold Learning <br>
 -> Principle Componenet Analysis <br>
 -> Randomized PCA <br>
 -> Incremental PCA <br>
