@@ -28,4 +28,8 @@
 -> Stacking <br>
 ## Dimensionality Reduction
 -> Approaches for dimensionality reduction: 1. Projection, 2. Manifold Learning
--> Principle Componenet Analysis
+-> Principle Componenet Analysis <br>
+-> Randomized PCA <br>
+-> Incremental PCA <br>
+-> Kernel PCA <br>
+-> 
